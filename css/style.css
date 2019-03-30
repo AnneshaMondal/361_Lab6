@@ -41,8 +41,11 @@ list-style-type: none;
 
 }
 
-#sidebar-container ul li{
-  list-style-image: none;
+#sidebar-container ul{
+  list-style-type: none;
+}
+
+#sidebar-container ul li {
   padding: 15px;
 }
 
