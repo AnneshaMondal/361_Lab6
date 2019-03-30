@@ -31,14 +31,18 @@ list-style-type: none;
   text-decoration: underline overline;
 }
 
+
+#sidebar{
+  position:fixed;
+  right:0%;
+  background-color: red;
+  height:100%;
+}
+
 #sidebar-container{
   text-align: center;
   padding:0;
   display:block;
-  background-color: red;
-  list-style-type: none;
-  position:fixed;
-
 }
 
 #sidebar-container ul{
