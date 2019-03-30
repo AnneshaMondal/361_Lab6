@@ -1,0 +1,29 @@
+nav#main-navbar{
+  background-color:blue;
+  overflow:hidden;
+  margin:0;
+  padding:0;
+}
+
+nav#navbar-container{
+  position:relative;
+  width: auto;
+  left:50%;
+  display:block;
+}
+nav#navbar-container ul {
+
+list-style-type: none;
+list-style: none;
+}
+
+nav#navbar-container ul li {
+  float:left;
+  padding: 15px 25px;
+}
+
+nav#navbar-container ul li a {
+  color: #fff;
+  text-decoration: none;
+  text-shadow: none;
+}
