@@ -27,3 +27,21 @@ nav#navbar-container ul li a {
   text-decoration: none;
   text-shadow: none;
 }
+
+#onpage{
+  text-decoration: underline overline;
+}
+
+#sidebar-container{
+  text-align: center;
+  padding:0;
+  display:block;
+  background-color: red;
+  list-style-type: none;
+  position: fixed;
+
+}
+
+#sidebar-container ul {
+  list-style-image: none;
+}
