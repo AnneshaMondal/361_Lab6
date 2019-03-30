@@ -42,6 +42,12 @@ nav#navbar-container ul li a {
 
 }
 
-#sidebar-container ul {
+#sidebar-container ul li{
   list-style-image: none;
+  padding: 15px;
+}
+
+#sidebar-container ul li a {
+  color: #fff;
+  text-decoration: none;
 }
