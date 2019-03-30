@@ -18,7 +18,7 @@ list-style-type: none;
 
 #navbar-container ul li {
   float:left;
-  padding: 15px 25px;
+  padding: 10px 20px;
 }
 
 #navbar-container ul li a {
@@ -31,14 +31,19 @@ list-style-type: none;
   text-decoration: underline overline;
 }
 
+
+#sidebar{
+  position:fixed;
+  right:0%;
+  background-color: red;
+  height:100%;
+  width:20%;
+}
+
 #sidebar-container{
   text-align: center;
-  padding:0;
+  padding:15px 0;
   display:block;
-  background-color: red;
-  list-style-type: none;
-  position: fixed;
-  
 }
 
 #sidebar-container ul{
@@ -46,7 +51,7 @@ list-style-type: none;
 }
 
 #sidebar-container ul li {
-  padding: 15px;
+  padding: 15px 0;
 }
 
 #sidebar-container ul li a {
