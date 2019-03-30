@@ -46,7 +46,7 @@ list-style-type: none;
 }
 
 #sidebar-container ul li {
-  padding: 15px;
+  padding: 15px 0;
 }
 
 #sidebar-container ul li a {
